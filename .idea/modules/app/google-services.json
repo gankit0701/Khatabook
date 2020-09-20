@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "810955843753",
+    "firebase_url": "https://creditinfo-b3f2e.firebaseio.com",
+    "project_id": "creditinfo-b3f2e",
+    "storage_bucket": "creditinfo-b3f2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810955843753:android:194babb45561b3793de1b8",
+        "android_client_info": {
+          "package_name": "com.test.creditinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810955843753-mi6d0j9hqg37a42oj4d31n3a60vtf1ra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.creditinfo",
+            "certificate_hash": "aa9f11f985332dd19d7ae29059673a652cf66c7b"
+          }
+        },
+        {
+          "client_id": "810955843753-50igh6f9b3k92n1r6l7c1hbvk3b0p6rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVzx3WeLkTMZyBoZD5dMPcLeYR-MSFUHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810955843753-50igh6f9b3k92n1r6l7c1hbvk3b0p6rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
